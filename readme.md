@@ -5,4 +5,5 @@ This GitHub repo contains templates that I actively use for developing my UWP ap
 ## Guide
 
 **Remilia Scarlet**
+
 Main, polished, updated generic template. Complete with acrylic features.
