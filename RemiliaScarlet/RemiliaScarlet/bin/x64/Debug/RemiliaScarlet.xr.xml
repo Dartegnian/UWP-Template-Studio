@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Roots >
+  <Roots.RootTypes>
+    <RootType FullName="Windows.UI.Xaml.Application">
+      <RootProperty Name="RequestedTheme" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Page">
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Grid">
+      <RootProperty Name="Background" />
+      <RootProperty Name="Children" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.ThemeResourceExtension" />
+    <RootType FullName="Windows.UI.Xaml.Shapes.Rectangle">
+      <RootProperty Name="Fill" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Width" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.NavigationView">
+      <RootProperty Name="IsSettingsVisible" />
+      <RootProperty Name="AlwaysShowHeader" />
+      <RootProperty Name="MenuItems" />
+      <RootProperty Name="Content" />
+      <RootEvent Name="ItemInvoked" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.NavigationViewItem">
+      <RootProperty Name="Content" />
+      <RootProperty Name="IsSelected" />
+      <RootProperty Name="Icon" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.FontIcon">
+      <RootProperty Name="FontFamily" />
+      <RootProperty Name="Glyph" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Frame">
+      <RootEvent Name="Navigated" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.StaticResourceExtension" />
+    <RootType FullName="RemiliaScarlet.MainPage" />
+    <RootType FullName="RemiliaScarlet.Views.Home" />
+    <RootType FullName="RemiliaScarlet.Views.SettingsPage" />
+  </Roots.RootTypes>
+</Roots>
